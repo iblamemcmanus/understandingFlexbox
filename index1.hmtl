@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<title></title>
+		
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		
+		
+	
+		<link rel="stylesheet" href="flexboxCSS1.css">
+	</head>
+
+	<body>
+
+
+		<ul class="ulClass1">
+			<li class="liClass1"></li>
+			<li class="liClass1"></li>
+			<li class="liClass1"></li>
+			<li class="liClass1"></li>
+			<li class="liClass1"></li>
+			<li class="liClass1"></li>
+			<li class="liClass1"></li>
+			<li class="liClass1"></li>
+			<li class="liClass1"></li>
+			<li class="liClass1"></li>
+			
+		</ul>
+		
+
+		<ul class="ulClass2">
+			<li class="liClass2">1</li>
+			<li class="liClass2">2</li>
+			<li class="liClass2">3</li>
+		</ul>
+
+		<ul class="ulClass3">
+			<li class="liClass3">1</li>
+			<li class="liClass3">2</li>
+			<li class="liClass3">3</li>
+			<li class="liClass3">4</li>
+		</ul>
+
+
+		<ul class="ulClass4">
+			<li class="liClass4">I am a simple list</li>
+		</ul>
+
+	</body>
+
+</html>
+
